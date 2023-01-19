@@ -1,0 +1,17 @@
+*, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar */
+
+header nav a{
+    color: white !important;
+}
+
+/* Cover-page */
+section#cover-page h1.display-5 {
+    /* border: 1px solid white; */
+    padding-top: 30vh !important;
+    padding-bottom: 30px !important;
+}
