@@ -15,3 +15,31 @@ section#cover-page h1.display-5 {
     padding-top: 30vh !important;
     padding-bottom: 30px !important;
 }
+
+/* Brand-section */
+/* section#brand {
+    position: relative;
+}
+section span.underLay {
+    position: absolute;
+    transform: translate(-60%, -25%);
+    opacity: .1;
+    font-size: 4rem;
+} 
+*/
+section#brand div p{
+    position: relative;
+}
+
+section#brand div p span {
+    display: inline-block;
+    width: 35px;
+    height: 2px;
+    margin-bottom: 5px;
+    background-color: #aaa;
+}
+
+/* empty */
+.empty {
+    height: 60vh;
+}
