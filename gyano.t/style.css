@@ -17,16 +17,6 @@ section#cover-page h1.display-5 {
 }
 
 /* Brand-section */
-/* section#brand {
-    position: relative;
-}
-section span.underLay {
-    position: absolute;
-    transform: translate(-60%, -25%);
-    opacity: .1;
-    font-size: 4rem;
-} 
-*/
 section#brand div p{
     position: relative;
 }
@@ -36,12 +26,10 @@ section#brand div p span {
     width: 35px;
     height: 2px;
     margin-bottom: 5px;
-    background-color: #aaa;
+    background-color: #020202;
 }
 
 /* our products */
-/* section#our-product img{
-} */
 
 
 
